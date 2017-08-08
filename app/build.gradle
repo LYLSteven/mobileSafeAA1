@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "25.0.3"
+
+    //solve compile failed "app:mergeDebugResources"
+    aaptOptions {
+        cruncherEnabled = false
+        useNewCruncher = false
+    }
+
+    defaultConfig {
+        applicationId "cn.itcast.mobliesafe"
+        minSdkVersion 21
+        targetSdkVersion 21
+
+        testApplicationId "cn.itcast.mobliesafe1"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/RootTools.jar')
+    compile files('libs/xUtils-2.5.5.jar')
+}

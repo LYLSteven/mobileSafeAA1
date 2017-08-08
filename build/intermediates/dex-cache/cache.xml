@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\MyApplication\mobileSafeAA1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyApplication\mobileSafeAA1\app\libs\RootTools.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f20254cf0ef9dd3e07c200540ec606668a713fa">
+        <dex dex="E:\MyApplication\mobileSafeAA1\app\build\intermediates\pre-dexed\debug\RootTools_74ab9f19518e174add1350162875b15284fc1c8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\MyApplication\mobileSafeAA1\app\libs\xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="E:\MyApplication\mobileSafeAA1\app\build\intermediates\pre-dexed\debug\xUtils-2.5.5_2a5bf2f991101a0563e12cb153529c7479827d7f.jar" />
+    </item>
+
+</items>

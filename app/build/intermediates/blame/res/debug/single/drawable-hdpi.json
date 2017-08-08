@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit_normal.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sim_bind_e.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\sim_bind_e.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sim_setup.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\sim_setup.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\recomand_icon.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\recomand_icon.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\set_safephone_icon.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\set_safephone_icon.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\security_phone_setup1.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\security_phone_setup1.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setup_setting_complete.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\setup_setting_complete.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\superman.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\superman.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sim_bind_p.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\sim_bind_p.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\mobileSafeAA1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sim_bind_n.9.png",
+        "source": "E:\\MyApplication\\mobileSafeAA1\\app\\src\\main\\res\\drawable-hdpi\\sim_bind_n.9.png"
+    }
+]
